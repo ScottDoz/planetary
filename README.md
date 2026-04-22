@@ -1,14 +1,19 @@
 Modelling of planetary objects, bodies, surfaces.
 -------------------------------------------------
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="https://gdal.org/en/stable/">
+  <img src="https://images.icon-icons.com/2699/PNG/512/gdal_logo_icon_171112.png" width="10%">
+</a>
 [![Powered by Astropy](https://img.shields.io/badge/powered%20by-Astropy-orange.svg?style=flat)](https://astropy.org/)
+
+
 
 This repo contains python tools to model planetary objects, bodies, and surfaces.
 
+
+
+![Terrain Map of Lunar South Pole Region](docs/images/Terrain_lunar_south_pole.png)
 Example terrain plot of lunar south pole region.
-
-
-
 
 Installation
 ------------
